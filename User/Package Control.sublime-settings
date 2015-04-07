@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"FileDiffs",
+		"INI",
+		"JavaScript Completions",
+		"Package Control",
+		"Predawn",
+		"SCSS",
+		"SideBarEnhancements",
+		"Sublime-CSS3"
+	],
+	"repositories":
+	[
+		"https://github.com/i-akhmadullin/Sublime-CSS3"
+	]
+}
